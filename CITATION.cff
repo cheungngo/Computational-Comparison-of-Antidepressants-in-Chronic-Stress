@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software or associated dataset, please cite it as below."
+authors:
+  - family-names: "Cheung"
+    given-names: "N."
+title: "Structural Rebuilding Confers Superior Long-Term Resilience: A Unified Multi-Mechanism Computational Comparison of Antidepressants in Chronic Stress"
+version: "1.0.0"
+doi: "10.5281/zenodo.18295517"
+date-released: "2026-01-19"
+type: "software"
+repository-code: "https://github.com/cheungngo/Computational-Comparison-of-Antidepressants-in-Chronic-Stress"
+url: "https://doi.org/10.5281/zenodo.18295517"
+abstract: "Computational modeling comparing glutamatergic (ketamine-like), monoaminergic (SSRI-like), and GABAergic (neurosteroid-like) antidepressant mechanisms in a pruning-plasticity framework, including stochastic variability and longitudinal simulation of chronic stress and relapse risk."
+keywords:
+  - computational psychiatry
+  - neural plasticity
+  - antidepressants
+  - ketamine
+  - neurosteroids
+  - synaptic pruning
+  - major depressive disorder
+  - simulation
+license: "MIT"  # Adjust if a different license applies in the repository
